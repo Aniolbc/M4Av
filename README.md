@@ -1,7 +1,7 @@
 # M4Av
-## V.0.0
+## V.0.0 https://aniolbc.github.io/M4Av/V.0.0/Peli
 Aquesta versió es la primera de totes, en la qual no hi ha cap modificació.
-## Part1
+## Part1 https://aniolbc.github.io/M4Av/Part1/V.0.1/Peli
 En aquesta versió, s'han corregit alguns errors i se li ha aplicat CSS, algunes propietats utilitzades són:
  - font-family: Yozakura;
  - font-size: 36px;
@@ -28,7 +28,7 @@ En aquesta versió, s'han corregit alguns errors i se li ha aplicat CSS, algunes
  - background-size: cover;
  - background-image: url(../Fotos/sang.jpg)
  - text-align: center; 
- ## Part2
+ ## Part2 https://aniolbc.github.io/M4Av/Part2/Plantilla/index https://aniolbc.github.io/M4Av/Part2/V.1/index
  En aquesta versió s'ha agafat una plantilla amb CSS i li he aplicat el meu codi HTML, algunes propietats CSS utilitzades són:
   - border-collapse: collapse;
 	- border-spacing: 0;
@@ -55,6 +55,6 @@ En aquesta versió, s'han corregit alguns errors i se li ha aplicat CSS, algunes
   - font-weight: 300;
 	- line-height: 1.375;
 	-	letter-spacing: -0.05em;
-  ## Part3
+  ## Part3 https://aniolbc.github.io/M4Av/Part3/V.2.0/Part3
   En aquesta versió li he afegit bootstrap a una part de la meva pàgina.
      
